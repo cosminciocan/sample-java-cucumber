@@ -11,18 +11,18 @@ import java.util.Date;
 public class Constant{
 
     //BASE URL
-    public static final String BaseURL = "http://sfvm22/VMS";
-    public static final String StaffURL = "http://sfvm22/VMSStaff";
+    public static final String BaseURL = "url";
+    public static final String StaffURL = "url/Staff";
 //    PATHS
     public static final String logOutPath = "/Account/LogOff";
 
 
     //CREDENTIALS
-    public static final String volunteerUser = "ACVC@actests.rou";
-    public static final String volunteerPassword = "11111111";
+    public static final String volunteerUser = "";
+    public static final String volunteerPassword = "";
 
     //VALUES
-    public static final String highReservationGroupSize = "200"; // This should be a number above 100
+    public static final String highReservationGroupSize = ""; // This should be a number above 100
     public static final int defaultTimeOut = 5;
 
 
