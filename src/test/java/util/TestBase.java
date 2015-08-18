@@ -1,10 +1,8 @@
-package Utils;
+package util;
 
-import Utils.Constant;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.junit.Assert;
 import org.openqa.selenium.*;
-import org.w3c.dom.DocumentType;
 import webdriver.Driver;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

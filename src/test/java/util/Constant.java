@@ -1,4 +1,4 @@
-package Utils;
+package util;
 
 import org.apache.commons.lang3.time.DateUtils;
 import org.openqa.selenium.WebElement;
@@ -8,10 +8,10 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 
-public class Constant{
+public class Constant {
 
     //BASE URL
-    public static final String BaseURL = "url";
+    public static final String BaseURL = "http://www.google.ro";
     public static final String StaffURL = "url/Staff";
 //    PATHS
     public static final String logOutPath = "/Account/LogOff";

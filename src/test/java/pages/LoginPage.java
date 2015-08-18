@@ -1,7 +1,6 @@
 package pages;
 
-import Utils.TestBase;
-import junit.framework.Assert;
+import util.TestBase;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import webdriver.Driver;

@@ -1,8 +1,7 @@
 package pages;
 
-import Utils.TestBase;
+import util.TestBase;
 import junit.framework.Assert;
-import org.junit.internal.runners.statements.Fail;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;

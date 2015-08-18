@@ -3,7 +3,7 @@ package steps;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
-import Utils.TestBase;
+import util.TestBase;
 import org.junit.Assert;
 import org.openqa.selenium.support.PageFactory;
 import pages.Homepage;
